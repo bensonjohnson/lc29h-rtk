@@ -14,9 +14,9 @@ serial:
 #   2. Using a known surveyed position
 #   3. Post-processing GNSS data
 base_station:
-  latitude: 37.7749         # Latitude in decimal degrees (WGS84)
-  longitude: -122.4194      # Longitude in decimal degrees (WGS84)
-  altitude: 10.0            # Altitude in meters (ellipsoidal height)
+  latitude: 43.56497873         # Latitude in decimal degrees (WGS84)
+  longitude: -116.59970771     # Longitude in decimal degrees (WGS84)
+  altitude: 742.4959            # Altitude in meters (ellipsoidal height)
 
   # Antenna Reference Point (ARP) height above ground
   antenna_height: 0.0       # Height in meters

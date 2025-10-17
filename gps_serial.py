@@ -34,6 +34,15 @@ class LC29HSerial:
         self.rtcm_callback: Optional[Callable[[bytes], None]] = None
         self.nmea_callback: Optional[Callable[[str], None]] = None
 
+        # GPS status tracking
+        self.gps_status = {
+            'satellites': 0,
+            'fix_quality': 0,
+            'fix_type': 'No Fix',
+            'hdop': 0.0,
+            'last_update': None
+        }
+
     def connect(self) -> bool:
         """
         Open serial connection to LC29H
@@ -140,6 +149,7 @@ class LC29HSerial:
     def _read_loop(self):
         """Background thread to continuously read GPS data"""
         rtcm_buffer = bytearray()
+        nmea_buffer = bytearray()
 
         while self.running and self.serial_conn and self.serial_conn.is_open:
             try:
@@ -163,9 +173,19 @@ class LC29HSerial:
                                     self._process_rtcm(bytes(rtcm_buffer[:msg_len + 6]))
                                     rtcm_buffer = bytearray()
                         else:
-                            # Could be NMEA - handle text lines
-                            if byte == ord(b'\n'):
-                                pass  # Line complete
+                            # NMEA sentence detection (starts with $, ends with \n)
+                            if byte == ord(b'$'):
+                                nmea_buffer = bytearray([byte])
+                            elif nmea_buffer:
+                                nmea_buffer.append(byte)
+                                if byte == ord(b'\n'):
+                                    # Complete NMEA sentence
+                                    try:
+                                        sentence = nmea_buffer.decode('ascii', errors='ignore').strip()
+                                        self._process_nmea(sentence)
+                                    except:
+                                        pass
+                                    nmea_buffer = bytearray()
 
                 time.sleep(0.01)  # Small delay to prevent CPU spinning
 
@@ -187,6 +207,59 @@ class LC29HSerial:
 
             if self.rtcm_callback:
                 self.rtcm_callback(rtcm_data)
+
+    def _process_nmea(self, sentence: str):
+        """Process NMEA sentence and extract GPS status"""
+        if not sentence.startswith('$'):
+            return
+
+        try:
+            # Parse GGA sentence for fix quality and satellite count
+            if 'GGA' in sentence:
+                parts = sentence.split(',')
+                if len(parts) > 9:
+                    # Fix quality: 0=no fix, 1=GPS, 2=DGPS, 4=RTK fixed, 5=RTK float
+                    fix = parts[6]
+                    sats = parts[7]
+                    hdop = parts[8]
+
+                    fix_types = {
+                        '0': 'No Fix',
+                        '1': 'GPS Fix',
+                        '2': 'DGPS Fix',
+                        '4': 'RTK Fixed',
+                        '5': 'RTK Float',
+                        '6': 'Dead Reckoning'
+                    }
+
+                    try:
+                        self.gps_status['fix_quality'] = int(fix) if fix else 0
+                        self.gps_status['fix_type'] = fix_types.get(fix, f'Unknown ({fix})')
+                        self.gps_status['satellites'] = int(sats) if sats else 0
+                        self.gps_status['hdop'] = float(hdop) if hdop else 0.0
+                        self.gps_status['last_update'] = time.time()
+                    except ValueError:
+                        pass
+
+            # Call user callback if set
+            if self.nmea_callback:
+                self.nmea_callback(sentence)
+
+        except Exception as e:
+            logger.debug(f"Error parsing NMEA: {e}")
+
+    def get_gps_status(self) -> dict:
+        """Get current GPS status"""
+        status = self.gps_status.copy()
+        # Check if data is stale (no update in 5 seconds)
+        if status['last_update']:
+            if time.time() - status['last_update'] > 5:
+                status['stale'] = True
+            else:
+                status['stale'] = False
+        else:
+            status['stale'] = True
+        return status
 
     def set_rtcm_callback(self, callback: Callable[[bytes], None]):
         """Set callback function to handle RTCM messages"""

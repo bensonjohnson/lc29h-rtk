@@ -45,24 +45,47 @@
                 </div>
             </div>
 
+            <!-- GPS Status Card -->
+            <div class="card">
+                <h2>GPS Status</h2>
+                <div class="stat-group">
+                    <div class="stat">
+                        <label>Fix Type</label>
+                        <span id="fixType">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Satellites</label>
+                        <span id="satellites">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>HDOP</label>
+                        <span id="hdop">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Signal Status</label>
+                        <span id="signalStatus">-</span>
+                    </div>
+                </div>
+            </div>
+
             <!-- RTCM Statistics Card -->
             <div class="card">
                 <h2>RTCM Statistics</h2>
                 <div class="stat-group">
                     <div class="stat">
-                        <label>Messages Sent</label>
+                        <label>Messages Received (from GPS)</label>
                         <span id="rtcmMessages">-</span>
                     </div>
                     <div class="stat">
-                        <label>Bytes Sent</label>
+                        <label>Bytes Broadcast (to clients)</label>
                         <span id="bytesSent">-</span>
                     </div>
                     <div class="stat">
-                        <label>Message Rate</label>
+                        <label>Message Rate (from GPS)</label>
                         <span id="messageRate">-</span>
                     </div>
                     <div class="stat">
-                        <label>Byte Rate</label>
+                        <label>Byte Rate (to clients)</label>
                         <span id="byteRate">-</span>
                     </div>
                 </div>

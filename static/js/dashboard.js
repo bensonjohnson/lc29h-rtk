@@ -56,6 +56,24 @@ function updateStats(stats) {
     document.getElementById('uptime').textContent = stats.uptime_formatted || '-';
     document.getElementById('startTime').textContent = formatDateTime(stats.start_time);
 
+    // GPS status
+    if (stats.gps_status) {
+        const gps = stats.gps_status;
+        document.getElementById('fixType').textContent = gps.fix_type || 'Unknown';
+        document.getElementById('satellites').textContent = gps.satellites || '0';
+        document.getElementById('hdop').textContent = gps.hdop ? gps.hdop.toFixed(2) : '-';
+
+        // Signal status with indicator
+        const signalElement = document.getElementById('signalStatus');
+        if (gps.stale) {
+            signalElement.textContent = '⚠ Stale';
+            signalElement.style.color = '#f59e0b';
+        } else {
+            signalElement.textContent = '✓ Active';
+            signalElement.style.color = '#10b981';
+        }
+    }
+
     // RTCM statistics
     document.getElementById('rtcmMessages').textContent = formatNumber(stats.rtcm_messages);
     document.getElementById('bytesSent').textContent = formatBytes(stats.bytes_broadcast);

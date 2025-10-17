@@ -85,6 +85,11 @@ class WebInterface:
             msg_rate = self.base_station.stats['rtcm_messages'] / uptime
             byte_rate = self.base_station.stats['bytes_broadcast'] / uptime
 
+        # Get GPS status
+        gps_status = {'satellites': 0, 'fix_type': 'Unknown', 'hdop': 0.0, 'stale': True}
+        if self.base_station.gps:
+            gps_status = self.base_station.gps.get_gps_status()
+
         return {
             'status': 'running' if self.base_station.running else 'stopped',
             'uptime': uptime,
@@ -96,6 +101,7 @@ class WebInterface:
             'byte_rate': round(byte_rate, 2),
             'active_clients': ntrip_stats['active_clients'],
             'clients': ntrip_stats['clients'],
+            'gps_status': gps_status,
             'timestamp': datetime.now().isoformat()
         }
 
