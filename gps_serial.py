@@ -284,11 +284,34 @@ class LC29HSerial:
 
                 time.sleep(0.01)  # Small delay to prevent CPU spinning
 
-            except serial.SerialException as e:
-                logger.error(f"Serial read error: {e}")
-                break
+            except (serial.SerialException, OSError) as e:
+                logger.warning(f"Serial I/O error: {e} - attempting to reconnect")
+                time.sleep(1.0)
+                # Try to reconnect
+                try:
+                    if self.serial_conn:
+                        try:
+                            self.serial_conn.close()
+                        except:
+                            pass
+                    time.sleep(0.5)
+                    self.serial_conn = serial.Serial(
+                        port=self.port,
+                        baudrate=self.baudrate,
+                        timeout=self.timeout,
+                        bytesize=serial.EIGHTBITS,
+                        parity=serial.PARITY_NONE,
+                        stopbits=serial.STOPBITS_ONE
+                    )
+                    logger.info("Successfully reconnected to GPS")
+                    rtcm_buffer = bytearray()  # Clear buffers after reconnect
+                    nmea_buffer = bytearray()
+                except Exception as reconnect_error:
+                    logger.error(f"Failed to reconnect: {reconnect_error}")
+                    time.sleep(2.0)
             except Exception as e:
                 logger.error(f"Unexpected error in read loop: {e}")
+                time.sleep(0.5)
 
     def _process_rtcm(self, rtcm_data: bytes):
         """Process received RTCM3 message"""
