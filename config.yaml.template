@@ -1,0 +1,84 @@
+# LC29H RTK Base Station Configuration
+
+# Serial Port Configuration
+serial:
+  port: /dev/ttyS0          # Serial port for LC29H GPS module (GPIO UART)
+                            # Common GPIO serial ports: /dev/ttyS0, /dev/ttyAMA0, /dev/serial0
+  baudrate: 115200          # Communication speed (115200 for LC29H)
+  timeout: 1.0              # Read timeout in seconds
+
+# Base Station Position
+# IMPORTANT: Set accurate fixed position for your base station
+# You can obtain this by:
+#   1. Running in survey-in mode for 24+ hours
+#   2. Using a known surveyed position
+#   3. Post-processing GNSS data
+base_station:
+  latitude: 37.7749         # Latitude in decimal degrees (WGS84)
+  longitude: -122.4194      # Longitude in decimal degrees (WGS84)
+  altitude: 10.0            # Altitude in meters (ellipsoidal height)
+
+  # Antenna Reference Point (ARP) height above ground
+  antenna_height: 0.0       # Height in meters
+
+# RTCM3 Messages Configuration
+rtcm:
+  # RTCM3 message types to output from base station
+  # 1005: Stationary RTK reference station ARP
+  # 1074: GPS MSM4 (Multi-Signal Message)
+  # 1084: GLONASS MSM4
+  # 1094: Galileo MSM4
+  # 1124: BeiDou MSM4
+  # 1230: GLONASS code-phase biases
+  messages:
+    - 1005    # Station coordinates (10 sec interval)
+    - 1074    # GPS MSM4 (1 sec interval)
+    - 1084    # GLONASS MSM4 (1 sec interval)
+    - 1094    # Galileo MSM4 (1 sec interval)
+    - 1124    # BeiDou MSM4 (1 sec interval)
+    - 1230    # GLONASS biases (10 sec interval)
+
+# NTRIP Server Configuration
+ntrip:
+  host: 0.0.0.0             # Bind to all network interfaces
+  port: 2101                # Standard NTRIP port
+
+  # Mountpoint configuration
+  mountpoint:
+    name: BASE              # Mountpoint name (e.g., /BASE)
+    identifier: LC29H_BASE  # Station identifier
+    format: RTCM 3.3        # Data format
+    format_details: "1005(10),1074(1),1084(1),1094(1),1124(1),1230(10)"
+
+  # Authentication (set to enable password protection)
+  authentication:
+    enabled: false          # Enable/disable authentication
+    username: user          # Username for NTRIP access
+    password: pass          # Password for NTRIP access
+
+# Web Interface Configuration
+web:
+  enabled: true             # Enable web dashboard
+  host: 0.0.0.0             # Bind to all network interfaces
+  port: 5000                # Web interface port
+
+# Logging Configuration
+logging:
+  level: INFO               # Log level: DEBUG, INFO, WARNING, ERROR
+  file: logs/base_station.log  # Log file path
+  max_bytes: 10485760       # Max log file size (10 MB)
+  backup_count: 5           # Number of backup log files to keep
+  console: true             # Also log to console
+
+# Station Information (for NTRIP sourcetable)
+station:
+  network: FKA              # Network name
+  country: USA              # Country code (ISO 3166-1 alpha-3)
+  carrier: 2                # Carrier phase: 0=no, 1=L1, 2=L1+L2
+  nav_system: GPS+GLO+GAL+BDS  # Navigation systems
+  nmea: 1                   # NMEA required: 0=no, 1=yes
+  solution: 0               # Solution type: 0=single base
+  generator: LC29H          # Generator/receiver type
+  compression: none         # Compression algorithm
+  fee: N                    # Fee required: N=no, Y=yes
+  bitrate: 9600             # Approximate bitrate

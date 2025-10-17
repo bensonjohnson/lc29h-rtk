@@ -1,5 +1,7 @@
 // Dashboard JavaScript for RTK Base Station Status
 let config = null;
+let map = null;
+let marker = null;
 
 // RTCM message type descriptions
 const RTCM_DESCRIPTIONS = {
@@ -112,6 +114,44 @@ function calculateDuration(connectedAt) {
     }
 }
 
+// Initialize map
+function initMap(lat, lon) {
+    // Create map centered on base station
+    map = L.map('map').setView([lat, lon], 16);
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxZoom: 19
+    }).addTo(map);
+
+    // Create custom icon for base station
+    const baseIcon = L.divIcon({
+        className: 'base-station-marker',
+        html: '<div style="background: #667eea; width: 24px; height: 24px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"></div>',
+        iconSize: [24, 24],
+        iconAnchor: [12, 12]
+    });
+
+    // Add marker for base station
+    marker = L.marker([lat, lon], { icon: baseIcon }).addTo(map);
+
+    // Add popup with coordinates
+    marker.bindPopup(`
+        <strong>RTK Base Station</strong><br>
+        Lat: ${lat.toFixed(8)}°<br>
+        Lon: ${lon.toFixed(8)}°
+    `).openPopup();
+
+    // Add circle showing approximate coverage area (10km radius)
+    L.circle([lat, lon], {
+        color: '#667eea',
+        fillColor: '#667eea',
+        fillOpacity: 0.1,
+        radius: 10000
+    }).addTo(map);
+}
+
 // Update configuration display
 function updateConfig(cfg) {
     config = cfg;
@@ -120,6 +160,11 @@ function updateConfig(cfg) {
     document.getElementById('latitude').textContent = cfg.base_station.latitude.toFixed(8) + '°';
     document.getElementById('longitude').textContent = cfg.base_station.longitude.toFixed(8) + '°';
     document.getElementById('altitude').textContent = cfg.base_station.altitude.toFixed(2) + ' m';
+
+    // Initialize map with base station location
+    if (!map) {
+        initMap(cfg.base_station.latitude, cfg.base_station.longitude);
+    }
 
     // NTRIP configuration
     document.getElementById('ntripPort').textContent = cfg.ntrip.port;

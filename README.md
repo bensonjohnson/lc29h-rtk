@@ -39,7 +39,10 @@ RX       -->   TX (GPIO 14, /dev/ttyS0)
 The easiest way to install is using the automated install script:
 
 ```bash
-# Edit config.yaml first to set your base station coordinates
+# Copy the template configuration file
+cp config.yaml.template config.yaml
+
+# Edit config.yaml to set your base station coordinates
 nano config.yaml
 
 # Run the installer (will prompt for systemd setup)
@@ -60,13 +63,20 @@ The installer will:
 cd /home/benson/lc29h-rtk
 ```
 
-2. Install Python dependencies:
+2. Copy and configure the configuration file:
+
+```bash
+cp config.yaml.template config.yaml
+nano config.yaml  # Edit your base station coordinates
+```
+
+3. Install Python dependencies:
 
 ```bash
 pip3 install -r requirements.txt
 ```
 
-3. Enable serial port on Raspberry Pi (if needed):
+4. Enable serial port on Raspberry Pi (if needed):
 
 Edit `/boot/config.txt` and add:
 ```
@@ -80,7 +90,7 @@ Reboot:
 sudo reboot
 ```
 
-4. Check serial port access:
+5. Check serial port access:
 
 ```bash
 python3 base_station.py --check-serial
@@ -94,7 +104,14 @@ sudo usermod -a -G dialout $USER
 
 ## Configuration
 
-Edit `config.yaml` to configure your base station:
+**Important**: The repository includes `config.yaml.template` as a reference. Copy it to `config.yaml` and edit with your settings:
+
+```bash
+cp config.yaml.template config.yaml
+nano config.yaml
+```
+
+The `config.yaml` file is gitignored to protect your station coordinates and credentials.
 
 ### Important Settings
 

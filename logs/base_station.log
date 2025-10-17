@@ -594,3 +594,1300 @@ Received shutdown signal
 2025-10-17 10:24:01 - root - WARNING - Invalid RTCM message received, type 0
 2025-10-17 10:24:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 568, got 9
 2025-10-17 10:24:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 103, got 62
+2025-10-17 10:24:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 661, got 41
+2025-10-17 10:24:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 103, got 84
+2025-10-17 10:24:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 965, got 19
+2025-10-17 10:24:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 41
+2025-10-17 10:24:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 422, got 50
+2025-10-17 10:24:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 111, got 51
+2025-10-17 10:24:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 1011, got 60
+2025-10-17 10:24:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 120, got 74
+2025-10-17 10:24:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 215, got 46
+2025-10-17 10:24:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 61
+2025-10-17 10:24:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 611, got 65
+2025-10-17 10:24:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:21 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 83
+2025-10-17 10:24:21 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:21 - rtcm_parser - WARNING - RTCM message type 3082 failed CRC24 check
+2025-10-17 10:24:21 - root - WARNING - Invalid RTCM message received, type 3082
+2025-10-17 10:24:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 36
+2025-10-17 10:24:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 699, got 55
+2025-10-17 10:24:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 74
+2025-10-17 10:24:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 758, got 17
+2025-10-17 10:24:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 53
+2025-10-17 10:24:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 845, got 73
+2025-10-17 10:24:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 28, got 27
+2025-10-17 10:24:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 82
+2025-10-17 10:24:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 570, got 9
+2025-10-17 10:24:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 57, got 54
+2025-10-17 10:24:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:28 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 62
+2025-10-17 10:24:28 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:28 - rtcm_parser - WARNING - RTCM message length mismatch: expected 634, got 64
+2025-10-17 10:24:28 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 50
+2025-10-17 10:24:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 390, got 11
+2025-10-17 10:24:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 88
+2025-10-17 10:24:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 76
+2025-10-17 10:24:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 363, got 50
+2025-10-17 10:24:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:36 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 69
+2025-10-17 10:24:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:36 - rtcm_parser - WARNING - RTCM message length mismatch: expected 87, got 22
+2025-10-17 10:24:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:39 - rtcm_parser - WARNING - RTCM message length mismatch: expected 57, got 37
+2025-10-17 10:24:39 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:39 - rtcm_parser - WARNING - RTCM message length mismatch: expected 965, got 20
+2025-10-17 10:24:39 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 74
+2025-10-17 10:24:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 118, got 17
+2025-10-17 10:24:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 46
+2025-10-17 10:24:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 80
+2025-10-17 10:24:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 11
+2025-10-17 10:24:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 610, got 14
+2025-10-17 10:24:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 57, got 34
+2025-10-17 10:24:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 454, got 23
+2025-10-17 10:24:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 100
+2025-10-17 10:24:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 884, got 26
+2025-10-17 10:24:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:48 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 89
+2025-10-17 10:24:48 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:48 - rtcm_parser - WARNING - RTCM message length mismatch: expected 806, got 37
+2025-10-17 10:24:48 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 60
+2025-10-17 10:24:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 820, got 23
+2025-10-17 10:24:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 524, got 43
+2025-10-17 10:24:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 40
+2025-10-17 10:24:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:24:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 804, got 21
+2025-10-17 10:24:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:05 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 45
+2025-10-17 10:25:05 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:05 - rtcm_parser - WARNING - RTCM message length mismatch: expected 925, got 87
+2025-10-17 10:25:05 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 56
+2025-10-17 10:25:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 843, got 35
+2025-10-17 10:25:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:09 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 75
+2025-10-17 10:25:09 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:09 - rtcm_parser - WARNING - RTCM message type 2944 failed CRC24 check
+2025-10-17 10:25:09 - root - WARNING - Invalid RTCM message received, type 2944
+2025-10-17 10:25:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 57, got 40
+2025-10-17 10:25:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 1029, got 17
+2025-10-17 10:25:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 102
+2025-10-17 10:25:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 257, got 30
+2025-10-17 10:25:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 38
+2025-10-17 10:25:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 597, got 53
+2025-10-17 10:25:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 99
+2025-10-17 10:25:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 117, got 33
+2025-10-17 10:25:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 38
+2025-10-17 10:25:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 229, got 53
+2025-10-17 10:25:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 55
+2025-10-17 10:25:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 510, got 36
+2025-10-17 10:25:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 52
+2025-10-17 10:25:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 928, got 80
+2025-10-17 10:25:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 35
+2025-10-17 10:25:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 562, got 20
+2025-10-17 10:25:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:24 - rtcm_parser - WARNING - RTCM message type 3325 failed CRC24 check
+2025-10-17 10:25:24 - root - WARNING - Invalid RTCM message received, type 3325
+2025-10-17 10:25:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 38
+2025-10-17 10:25:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 510, got 23
+2025-10-17 10:25:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 60
+2025-10-17 10:25:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 398, got 72
+2025-10-17 10:25:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 61
+2025-10-17 10:25:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 426, got 71
+2025-10-17 10:25:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 131
+2025-10-17 10:25:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 28, got 26
+2025-10-17 10:25:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 35
+2025-10-17 10:25:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 540, got 56
+2025-10-17 10:25:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:32 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 59
+2025-10-17 10:25:32 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:32 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 65
+2025-10-17 10:25:32 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:32 - rtcm_parser - WARNING - RTCM message length mismatch: expected 583, got 67
+2025-10-17 10:25:32 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 65, got 28
+2025-10-17 10:25:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 519, got 37
+2025-10-17 10:25:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:34 - rtcm_parser - WARNING - RTCM message length mismatch: expected 65, got 28
+2025-10-17 10:25:34 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:34 - rtcm_parser - WARNING - RTCM message length mismatch: expected 487, got 37
+2025-10-17 10:25:34 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 44
+2025-10-17 10:25:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 494, got 47
+2025-10-17 10:25:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:37 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 50
+2025-10-17 10:25:37 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:37 - rtcm_parser - WARNING - RTCM message length mismatch: expected 262, got 11
+2025-10-17 10:25:37 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:40 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 35
+2025-10-17 10:25:40 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:40 - rtcm_parser - WARNING - RTCM message length mismatch: expected 490, got 56
+2025-10-17 10:25:40 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 35
+2025-10-17 10:25:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 648, got 26
+2025-10-17 10:25:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 38
+2025-10-17 10:25:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 436, got 23
+2025-10-17 10:25:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 61
+2025-10-17 10:25:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 428, got 71
+2025-10-17 10:25:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:48 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 53
+2025-10-17 10:25:48 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:48 - rtcm_parser - WARNING - RTCM message length mismatch: expected 490, got 55
+2025-10-17 10:25:48 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:48 - rtcm_parser - WARNING - RTCM message length mismatch: expected 29, got 24
+2025-10-17 10:25:48 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 35
+2025-10-17 10:25:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 442, got 56
+2025-10-17 10:25:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 38
+2025-10-17 10:25:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 44, got 23
+2025-10-17 10:25:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 54
+2025-10-17 10:25:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 436, got 78
+2025-10-17 10:25:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:55 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 30
+2025-10-17 10:25:55 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:55 - rtcm_parser - WARNING - RTCM message length mismatch: expected 509, got 31
+2025-10-17 10:25:55 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 35
+2025-10-17 10:25:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 420, got 8
+2025-10-17 10:25:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 944, got 48
+2025-10-17 10:25:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:57 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 99
+2025-10-17 10:25:57 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:57 - rtcm_parser - WARNING - RTCM message length mismatch: expected 65, got 24
+2025-10-17 10:25:57 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:57 - rtcm_parser - WARNING - RTCM message length mismatch: expected 48, got 9
+2025-10-17 10:25:57 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:58 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 89
+2025-10-17 10:25:58 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 22
+2025-10-17 10:25:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 49
+2025-10-17 10:25:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:25:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 692, got 83
+2025-10-17 10:25:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 33
+2025-10-17 10:26:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 747, got 38
+2025-10-17 10:26:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:26:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 48, got 9
+2025-10-17 10:26:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:04 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 61
+2025-10-17 10:26:04 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:04 - rtcm_parser - WARNING - RTCM message length mismatch: expected 820, got 30
+2025-10-17 10:26:04 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:06 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 47
+2025-10-17 10:26:06 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:06 - rtcm_parser - WARNING - RTCM message length mismatch: expected 647, got 44
+2025-10-17 10:26:06 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:06 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 43
+2025-10-17 10:26:06 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:06 - rtcm_parser - WARNING - RTCM message length mismatch: expected 415, got 89
+2025-10-17 10:26:06 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 72
+2025-10-17 10:26:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 950, got 60
+2025-10-17 10:26:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:09 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 44
+2025-10-17 10:26:09 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:09 - rtcm_parser - WARNING - RTCM message length mismatch: expected 1025, got 27
+2025-10-17 10:26:09 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:26:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 946, got 9
+2025-10-17 10:26:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 50
+2025-10-17 10:26:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 454, got 11
+2025-10-17 10:26:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:18 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 66
+2025-10-17 10:26:18 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:18 - rtcm_parser - WARNING - RTCM message length mismatch: expected 371, got 31
+2025-10-17 10:26:18 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:21 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 45
+2025-10-17 10:26:21 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:21 - rtcm_parser - WARNING - RTCM message length mismatch: expected 169, got 87
+2025-10-17 10:26:21 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 34
+2025-10-17 10:26:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 251, got 37
+2025-10-17 10:26:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 68
+2025-10-17 10:26:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 742, got 64
+2025-10-17 10:26:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 36
+2025-10-17 10:26:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 702, got 35
+2025-10-17 10:26:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:26 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 22
+2025-10-17 10:26:26 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 75
+2025-10-17 10:26:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 410, got 57
+2025-10-17 10:26:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:28 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 99
+2025-10-17 10:26:28 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:28 - rtcm_parser - WARNING - RTCM message length mismatch: expected 1006, got 33
+2025-10-17 10:26:28 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 53
+2025-10-17 10:26:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 840, got 18
+2025-10-17 10:26:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 58
+2025-10-17 10:26:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 670, got 39
+2025-10-17 10:26:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 60
+2025-10-17 10:26:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:33 - rtcm_parser - WARNING - RTCM message type 1264 failed CRC24 check
+2025-10-17 10:26:33 - root - WARNING - Invalid RTCM message received, type 1264
+2025-10-17 10:26:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 49
+2025-10-17 10:26:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 719, got 83
+2025-10-17 10:26:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:36 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:26:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:36 - rtcm_parser - WARNING - RTCM message length mismatch: expected 445, got 7
+2025-10-17 10:26:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:37 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 43
+2025-10-17 10:26:37 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:37 - rtcm_parser - WARNING - RTCM message length mismatch: expected 115, got 18
+2025-10-17 10:26:37 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:38 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 58
+2025-10-17 10:26:38 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:38 - rtcm_parser - WARNING - RTCM message length mismatch: expected 118, got 39
+2025-10-17 10:26:38 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:40 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 22
+2025-10-17 10:26:40 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 35
+2025-10-17 10:26:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 804, got 26
+2025-10-17 10:26:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:43 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:26:43 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:43 - rtcm_parser - WARNING - RTCM message length mismatch: expected 447, got 7
+2025-10-17 10:26:43 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 8
+2025-10-17 10:26:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 518, got 53
+2025-10-17 10:26:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 77
+2025-10-17 10:26:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 89, got 55
+2025-10-17 10:26:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:48 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 86
+2025-10-17 10:26:48 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:48 - rtcm_parser - WARNING - RTCM message length mismatch: expected 603, got 46
+2025-10-17 10:26:48 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:26:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 688, got 9
+2025-10-17 10:26:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 61
+2025-10-17 10:26:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 431, got 71
+2025-10-17 10:26:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:26:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 447, got 7
+2025-10-17 10:26:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:55 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 40
+2025-10-17 10:26:55 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:55 - rtcm_parser - WARNING - RTCM message length mismatch: expected 627, got 57
+2025-10-17 10:26:55 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:55 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 83
+2025-10-17 10:26:55 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:55 - rtcm_parser - WARNING - RTCM message length mismatch: expected 195, got 49
+2025-10-17 10:26:55 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:26:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 942, got 9
+2025-10-17 10:26:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:58 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:26:58 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:26:58 - rtcm_parser - WARNING - RTCM message length mismatch: expected 816, got 9
+2025-10-17 10:26:58 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 16
+2025-10-17 10:27:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 564, got 9
+2025-10-17 10:27:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:27:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 940, got 9
+2025-10-17 10:27:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:03 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 44
+2025-10-17 10:27:03 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:03 - rtcm_parser - WARNING - RTCM message length mismatch: expected 92, got 27
+2025-10-17 10:27:03 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:03 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 45
+2025-10-17 10:27:03 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:03 - rtcm_parser - WARNING - RTCM message type 1982 failed CRC24 check
+2025-10-17 10:27:03 - root - WARNING - Invalid RTCM message received, type 1982
+2025-10-17 10:27:04 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:27:04 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:04 - rtcm_parser - WARNING - RTCM message length mismatch: expected 940, got 9
+2025-10-17 10:27:04 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:06 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 96
+2025-10-17 10:27:06 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:27:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 814, got 9
+2025-10-17 10:27:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:08 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:27:08 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:08 - rtcm_parser - WARNING - RTCM message length mismatch: expected 317, got 7
+2025-10-17 10:27:08 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:09 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 77
+2025-10-17 10:27:09 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:09 - rtcm_parser - WARNING - RTCM message length mismatch: expected 125, got 55
+2025-10-17 10:27:09 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:27:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 44, got 9
+2025-10-17 10:27:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 35
+2025-10-17 10:27:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 939, got 26
+2025-10-17 10:27:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:27:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 40, got 9
+2025-10-17 10:27:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 48
+2025-10-17 10:27:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 833, got 49
+2025-10-17 10:27:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 101
+2025-10-17 10:27:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 1028, got 31
+2025-10-17 10:27:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 8
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 518, got 89
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 35
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 676, got 26
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 8
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 518, got 63
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 28, got 8
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:17 - rtcm_parser - WARNING - RTCM message type 512 failed CRC24 check
+2025-10-17 10:27:17 - root - WARNING - Invalid RTCM message received, type 512
+2025-10-17 10:27:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 58
+2025-10-17 10:27:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 131
+2025-10-17 10:27:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:27:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 556, got 9
+2025-10-17 10:27:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 123
+2025-10-17 10:27:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 940, got 9
+2025-10-17 10:27:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:26 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 41
+2025-10-17 10:27:26 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:26 - rtcm_parser - WARNING - RTCM message length mismatch: expected 396, got 50
+2025-10-17 10:27:26 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 73
+2025-10-17 10:27:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 510, got 65
+2025-10-17 10:27:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 90
+2025-10-17 10:27:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 282, got 48
+2025-10-17 10:27:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 8
+2025-10-17 10:27:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 518, got 77
+2025-10-17 10:27:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 133, got 53
+2025-10-17 10:27:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:34 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 58
+2025-10-17 10:27:34 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:36 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 93
+2025-10-17 10:27:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:36 - rtcm_parser - WARNING - RTCM message type 0 failed CRC24 check
+2025-10-17 10:27:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:36 - rtcm_parser - WARNING - RTCM message type 3903 failed CRC24 check
+2025-10-17 10:27:36 - root - WARNING - Invalid RTCM message received, type 3903
+2025-10-17 10:27:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 24
+2025-10-17 10:27:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 50
+2025-10-17 10:27:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 358, got 11
+2025-10-17 10:27:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 77
+2025-10-17 10:27:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 515, got 61
+2025-10-17 10:27:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 45
+2025-10-17 10:27:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 963, got 16
+2025-10-17 10:27:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 41
+2025-10-17 10:27:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 415, got 50
+2025-10-17 10:27:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 68
+2025-10-17 10:27:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 63
+2025-10-17 10:27:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 942, got 75
+2025-10-17 10:27:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 77
+2025-10-17 10:27:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 333, got 61
+2025-10-17 10:27:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 42
+2025-10-17 10:27:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 495, got 19
+2025-10-17 10:27:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 107
+2025-10-17 10:27:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 997, got 31
+2025-10-17 10:27:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:55 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 68
+2025-10-17 10:27:55 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:57 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 101
+2025-10-17 10:27:57 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:57 - rtcm_parser - WARNING - RTCM message length mismatch: expected 210, got 37
+2025-10-17 10:27:57 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:58 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 135
+2025-10-17 10:27:58 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 82, got 35
+2025-10-17 10:27:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 580, got 47
+2025-10-17 10:27:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 50
+2025-10-17 10:27:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:27:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 274, got 21
+2025-10-17 10:27:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 11
+2025-10-17 10:28:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 610, got 14
+2025-10-17 10:28:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 82, got 81
+2025-10-17 10:28:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 23
+2025-10-17 10:28:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:05 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 11
+2025-10-17 10:28:05 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:05 - rtcm_parser - WARNING - RTCM message length mismatch: expected 610, got 14
+2025-10-17 10:28:05 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:05 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 100
+2025-10-17 10:28:05 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:05 - rtcm_parser - WARNING - RTCM message length mismatch: expected 965, got 38
+2025-10-17 10:28:05 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:08 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:08 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:08 - rtcm_parser - WARNING - RTCM message length mismatch: expected 661, got 58
+2025-10-17 10:28:08 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:09 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:09 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:09 - rtcm_parser - WARNING - RTCM message length mismatch: expected 693, got 58
+2025-10-17 10:28:09 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:10 - rtcm_parser - WARNING - RTCM message length mismatch: expected 757, got 58
+2025-10-17 10:28:10 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 789, got 58
+2025-10-17 10:28:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 853, got 58
+2025-10-17 10:28:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 885, got 58
+2025-10-17 10:28:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 42
+2025-10-17 10:28:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 492, got 19
+2025-10-17 10:28:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 82
+2025-10-17 10:28:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 653, got 50
+2025-10-17 10:28:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 949, got 58
+2025-10-17 10:28:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 33
+2025-10-17 10:28:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 981, got 58
+2025-10-17 10:28:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 65
+2025-10-17 10:28:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 783, got 61
+2025-10-17 10:28:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 49
+2025-10-17 10:28:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 897, got 12
+2025-10-17 10:28:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 479, got 30
+2025-10-17 10:28:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:28:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 445, got 7
+2025-10-17 10:28:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:28:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 445, got 7
+2025-10-17 10:28:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 52
+2025-10-17 10:28:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 504, got 19
+2025-10-17 10:28:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 50
+2025-10-17 10:28:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 315, got 82
+2025-10-17 10:28:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 51
+2025-10-17 10:28:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 110, got 10
+2025-10-17 10:28:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:28 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:28:28 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:28 - rtcm_parser - WARNING - RTCM message length mismatch: expected 315, got 7
+2025-10-17 10:28:28 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 48
+2025-10-17 10:28:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 121, got 13
+2025-10-17 10:28:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:30 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 104
+2025-10-17 10:28:30 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:30 - rtcm_parser - WARNING - RTCM message length mismatch: expected 775, got 28
+2025-10-17 10:28:30 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 47
+2025-10-17 10:28:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 441, got 29
+2025-10-17 10:28:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:31 - rtcm_parser - WARNING - RTCM message length mismatch: expected 251, got 21
+2025-10-17 10:28:31 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 47
+2025-10-17 10:28:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:33 - rtcm_parser - WARNING - RTCM message length mismatch: expected 887, got 24
+2025-10-17 10:28:33 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 93
+2025-10-17 10:28:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 393, got 11
+2025-10-17 10:28:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:35 - rtcm_parser - WARNING - RTCM message type 2702 failed CRC24 check
+2025-10-17 10:28:35 - root - WARNING - Invalid RTCM message received, type 2702
+2025-10-17 10:28:38 - rtcm_parser - WARNING - RTCM message length mismatch: expected 91, got 37
+2025-10-17 10:28:38 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:38 - rtcm_parser - WARNING - RTCM message length mismatch: expected 775, got 54
+2025-10-17 10:28:38 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:38 - rtcm_parser - WARNING - RTCM message length mismatch: expected 132, got 53
+2025-10-17 10:28:38 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:38 - rtcm_parser - WARNING - RTCM message type 1347 failed CRC24 check
+2025-10-17 10:28:38 - root - WARNING - Invalid RTCM message received, type 1347
+2025-10-17 10:28:38 - rtcm_parser - WARNING - RTCM message length mismatch: expected 613, got 42
+2025-10-17 10:28:38 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 43
+2025-10-17 10:28:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 895, got 53
+2025-10-17 10:28:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 51
+2025-10-17 10:28:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 110, got 10
+2025-10-17 10:28:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 73
+2025-10-17 10:28:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 646, got 24
+2025-10-17 10:28:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:28:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 187, got 7
+2025-10-17 10:28:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 60
+2025-10-17 10:28:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:45 - rtcm_parser - WARNING - RTCM message type 3 failed CRC24 check
+2025-10-17 10:28:45 - root - WARNING - Invalid RTCM message received, type 3
+2025-10-17 10:28:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 77
+2025-10-17 10:28:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 752, got 20
+2025-10-17 10:28:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 71
+2025-10-17 10:28:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 957, got 26
+2025-10-17 10:28:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:28:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 189, got 7
+2025-10-17 10:28:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 44
+2025-10-17 10:28:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 518, got 53
+2025-10-17 10:28:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 83
+2025-10-17 10:28:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 260, got 43
+2025-10-17 10:28:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 71
+2025-10-17 10:28:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 158, got 26
+2025-10-17 10:28:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:28:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 187, got 7
+2025-10-17 10:28:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:58 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 44
+2025-10-17 10:28:58 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:58 - rtcm_parser - WARNING - RTCM message type 2737 failed CRC24 check
+2025-10-17 10:28:58 - root - WARNING - Invalid RTCM message received, type 2737
+2025-10-17 10:28:58 - rtcm_parser - WARNING - RTCM message length mismatch: expected 42, got 10
+2025-10-17 10:28:58 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:28:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:28:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 42, got 10
+2025-10-17 10:28:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:00 - rtcm_parser - WARNING - RTCM message length mismatch: expected 38, got 10
+2025-10-17 10:29:00 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 42, got 10
+2025-10-17 10:29:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 50
+2025-10-17 10:29:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 14
+2025-10-17 10:29:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 791, got 62
+2025-10-17 10:29:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:02 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 45
+2025-10-17 10:29:02 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:02 - rtcm_parser - WARNING - RTCM message length mismatch: expected 950, got 16
+2025-10-17 10:29:02 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:06 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 95
+2025-10-17 10:29:06 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 41
+2025-10-17 10:29:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 591, got 85
+2025-10-17 10:29:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 28, got 27
+2025-10-17 10:29:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:08 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 76
+2025-10-17 10:29:08 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:08 - rtcm_parser - WARNING - RTCM message length mismatch: expected 997, got 50
+2025-10-17 10:29:08 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 24
+2025-10-17 10:29:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 57
+2025-10-17 10:29:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 975, got 40
+2025-10-17 10:29:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 39
+2025-10-17 10:29:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 430, got 30
+2025-10-17 10:29:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 42, got 10
+2025-10-17 10:29:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:16 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 24
+2025-10-17 10:29:16 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:16 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 38
+2025-10-17 10:29:16 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:16 - rtcm_parser - WARNING - RTCM message length mismatch: expected 942, got 31
+2025-10-17 10:29:16 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:16 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:16 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:16 - rtcm_parser - WARNING - RTCM message length mismatch: expected 40, got 10
+2025-10-17 10:29:16 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 42, got 10
+2025-10-17 10:29:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:18 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 71
+2025-10-17 10:29:18 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:18 - rtcm_parser - WARNING - RTCM message length mismatch: expected 138, got 26
+2025-10-17 10:29:18 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 11
+2025-10-17 10:29:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 610, got 14
+2025-10-17 10:29:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 86
+2025-10-17 10:29:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:19 - rtcm_parser - WARNING - RTCM message type 3950 failed CRC24 check
+2025-10-17 10:29:19 - root - WARNING - Invalid RTCM message received, type 3950
+2025-10-17 10:29:20 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 99
+2025-10-17 10:29:20 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:20 - rtcm_parser - WARNING - RTCM message length mismatch: expected 565, got 27
+2025-10-17 10:29:20 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:20 - rtcm_parser - WARNING - RTCM message length mismatch: expected 28, got 27
+2025-10-17 10:29:20 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 39
+2025-10-17 10:29:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 662, got 30
+2025-10-17 10:29:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 100
+2025-10-17 10:29:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 141, got 26
+2025-10-17 10:29:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 39
+2025-10-17 10:29:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 658, got 87
+2025-10-17 10:29:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 39
+2025-10-17 10:29:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 650, got 37
+2025-10-17 10:29:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:25 - rtcm_parser - WARNING - RTCM message length mismatch: expected 973, got 50
+2025-10-17 10:29:25 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:26 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 94
+2025-10-17 10:29:26 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:26 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 39
+2025-10-17 10:29:26 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:26 - rtcm_parser - WARNING - RTCM message length mismatch: expected 642, got 21
+2025-10-17 10:29:26 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:26 - rtcm_parser - WARNING - RTCM message length mismatch: expected 962, got 66
+2025-10-17 10:29:26 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 39
+2025-10-17 10:29:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 261, got 30
+2025-10-17 10:29:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 95
+2025-10-17 10:29:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:27 - rtcm_parser - WARNING - RTCM message length mismatch: expected 820, got 31
+2025-10-17 10:29:27 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 40
+2025-10-17 10:29:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 88, got 29
+2025-10-17 10:29:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 126, got 76
+2025-10-17 10:29:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:29 - rtcm_parser - WARNING - RTCM message length mismatch: expected 143, got 50
+2025-10-17 10:29:29 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:30 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 36
+2025-10-17 10:29:30 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:30 - rtcm_parser - WARNING - RTCM message length mismatch: expected 587, got 33
+2025-10-17 10:29:30 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:32 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 69
+2025-10-17 10:29:32 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:32 - rtcm_parser - WARNING - RTCM message length mismatch: expected 85, got 28
+2025-10-17 10:29:32 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 134, got 59
+2025-10-17 10:29:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:35 - rtcm_parser - WARNING - RTCM message length mismatch: expected 932, got 75
+2025-10-17 10:29:35 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:36 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 16
+2025-10-17 10:29:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:36 - rtcm_parser - WARNING - RTCM message length mismatch: expected 564, got 9
+2025-10-17 10:29:36 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:40 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:40 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:40 - rtcm_parser - WARNING - RTCM message length mismatch: expected 40, got 10
+2025-10-17 10:29:40 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:41 - rtcm_parser - WARNING - RTCM message length mismatch: expected 42, got 10
+2025-10-17 10:29:41 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 36, got 10
+2025-10-17 10:29:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 134, got 48
+2025-10-17 10:29:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 460, got 22
+2025-10-17 10:29:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:42 - rtcm_parser - WARNING - RTCM message length mismatch: expected 121, got 64
+2025-10-17 10:29:42 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:43 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:43 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:43 - rtcm_parser - WARNING - RTCM message length mismatch: expected 36, got 10
+2025-10-17 10:29:43 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:44 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:44 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:44 - rtcm_parser - WARNING - RTCM message length mismatch: expected 38, got 10
+2025-10-17 10:29:44 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 47
+2025-10-17 10:29:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 654, got 6
+2025-10-17 10:29:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:45 - rtcm_parser - WARNING - RTCM message length mismatch: expected 733, got 18
+2025-10-17 10:29:45 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 44
+2025-10-17 10:29:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:46 - rtcm_parser - WARNING - RTCM message length mismatch: expected 846, got 53
+2025-10-17 10:29:46 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 52
+2025-10-17 10:29:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 488, got 19
+2025-10-17 10:29:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:47 - rtcm_parser - WARNING - RTCM message length mismatch: expected 134, got 131
+2025-10-17 10:29:47 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:49 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 47
+2025-10-17 10:29:49 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:49 - rtcm_parser - WARNING - RTCM message length mismatch: expected 950, got 50
+2025-10-17 10:29:49 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 41
+2025-10-17 10:29:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 939, got 28
+2025-10-17 10:29:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:51 - rtcm_parser - WARNING - RTCM message length mismatch: expected 839, got 28
+2025-10-17 10:29:51 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 35
+2025-10-17 10:29:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:52 - rtcm_parser - WARNING - RTCM message length mismatch: expected 331, got 34
+2025-10-17 10:29:52 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:53 - rtcm_parser - WARNING - RTCM message length mismatch: expected 38, got 10
+2025-10-17 10:29:53 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:29:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:54 - rtcm_parser - WARNING - RTCM message length mismatch: expected 36, got 10
+2025-10-17 10:29:54 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 55
+2025-10-17 10:29:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 690, got 15
+2025-10-17 10:29:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 741, got 27
+2025-10-17 10:29:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 44
+2025-10-17 10:29:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:56 - rtcm_parser - WARNING - RTCM message length mismatch: expected 177, got 25
+2025-10-17 10:29:56 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:57 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:29:57 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:57 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 7
+2025-10-17 10:29:57 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 54
+2025-10-17 10:29:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 615, got 15
+2025-10-17 10:29:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 134, got 99
+2025-10-17 10:29:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:29:59 - rtcm_parser - WARNING - RTCM message length mismatch: expected 511, got 35
+2025-10-17 10:29:59 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:01 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 68
+2025-10-17 10:30:01 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:04 - rtcm_parser - WARNING - RTCM message length mismatch: expected 69, got 67
+2025-10-17 10:30:04 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:04 - rtcm_parser - WARNING - RTCM message length mismatch: expected 143, got 72
+2025-10-17 10:30:04 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:04 - rtcm_parser - WARNING - RTCM message length mismatch: expected 834, got 71
+2025-10-17 10:30:04 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 25, got 10
+2025-10-17 10:30:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 828, got 15
+2025-10-17 10:30:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 42
+2025-10-17 10:30:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 323, got 16
+2025-10-17 10:30:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 19, got 6
+2025-10-17 10:30:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:07 - rtcm_parser - WARNING - RTCM message length mismatch: expected 187, got 7
+2025-10-17 10:30:07 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:30:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:11 - rtcm_parser - WARNING - RTCM message length mismatch: expected 959, got 7
+2025-10-17 10:30:11 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:30:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 32, got 10
+2025-10-17 10:30:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:12 - rtcm_parser - WARNING - RTCM message length mismatch: expected 149, got 45
+2025-10-17 10:30:12 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:12 - rtcm_parser - WARNING - RTCM message type 3608 failed CRC24 check
+2025-10-17 10:30:12 - root - WARNING - Invalid RTCM message received, type 3608
+2025-10-17 10:30:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:30:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 36, got 10
+2025-10-17 10:30:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:13 - rtcm_parser - WARNING - RTCM message length mismatch: expected 149, got 45
+2025-10-17 10:30:13 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:13 - rtcm_parser - WARNING - RTCM message type 3601 failed CRC24 check
+2025-10-17 10:30:13 - root - WARNING - Invalid RTCM message received, type 3601
+2025-10-17 10:30:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:30:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 59, got 7
+2025-10-17 10:30:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:14 - rtcm_parser - WARNING - RTCM message length mismatch: expected 149, got 53
+2025-10-17 10:30:14 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:14 - rtcm_parser - WARNING - RTCM message type 904 failed CRC24 check
+2025-10-17 10:30:14 - root - WARNING - Invalid RTCM message received, type 904
+2025-10-17 10:30:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 74
+2025-10-17 10:30:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 109, got 23
+2025-10-17 10:30:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:30:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:15 - rtcm_parser - WARNING - RTCM message length mismatch: expected 36, got 10
+2025-10-17 10:30:15 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:16 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:30:16 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:16 - rtcm_parser - WARNING - RTCM message length mismatch: expected 36, got 10
+2025-10-17 10:30:16 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 40
+2025-10-17 10:30:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 567, got 18
+2025-10-17 10:30:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 346, got 39
+2025-10-17 10:30:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 61
+2025-10-17 10:30:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 38, got 10
+2025-10-17 10:30:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 149, got 143
+2025-10-17 10:30:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:17 - rtcm_parser - WARNING - RTCM message length mismatch: expected 518, got 6
+2025-10-17 10:30:17 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:18 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 51
+2025-10-17 10:30:18 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:18 - rtcm_parser - WARNING - RTCM message length mismatch: expected 142, got 46
+2025-10-17 10:30:18 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 61, got 8
+2025-10-17 10:30:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 518, got 53
+2025-10-17 10:30:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 149, got 107
+2025-10-17 10:30:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:19 - rtcm_parser - WARNING - RTCM message length mismatch: expected 359, got 42
+2025-10-17 10:30:19 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:21 - rtcm_parser - WARNING - RTCM message length mismatch: expected 97, got 40
+2025-10-17 10:30:21 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:21 - rtcm_parser - WARNING - RTCM message length mismatch: expected 867, got 55
+2025-10-17 10:30:21 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 42
+2025-10-17 10:30:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:22 - rtcm_parser - WARNING - RTCM message length mismatch: expected 33, got 29
+2025-10-17 10:30:22 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 149, got 108
+2025-10-17 10:30:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:23 - rtcm_parser - WARNING - RTCM message length mismatch: expected 333, got 40
+2025-10-17 10:30:23 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 71, got 64
+2025-10-17 10:30:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:24 - rtcm_parser - WARNING - RTCM message length mismatch: expected 317, got 7
+2025-10-17 10:30:24 - root - WARNING - Invalid RTCM message received, type 0
+2025-10-17 10:30:24 - root - INFO - 
+Received shutdown signal
+2025-10-17 10:30:24 - root - INFO - Stopping RTK Base Station...
+2025-10-17 10:30:24 - ntrip_server - INFO - NTRIP server stopped
+2025-10-17 10:30:24 - gps_serial - INFO - Stopped GPS data reading thread
+2025-10-17 10:30:24 - gps_serial - INFO - Disconnected from LC29H
+2025-10-17 10:30:24 - root - INFO - Session Statistics:
+2025-10-17 10:30:24 - root - INFO -   Uptime: 973.1 seconds (0.27 hours)
+2025-10-17 10:30:24 - root - INFO -   RTCM Messages: 5429
+2025-10-17 10:30:24 - root - INFO -   Bytes Broadcast: 258109
+2025-10-17 10:30:24 - root - INFO -   Avg Rate: 5.58 msg/sec
+2025-10-17 10:30:24 - root - INFO - RTK Base Station stopped
+2025-10-17 10:30:26 - root - INFO - ============================================================
+2025-10-17 10:30:26 - root - INFO - LC29H RTK Base Station Starting...
+2025-10-17 10:30:26 - root - INFO - ============================================================
+2025-10-17 10:30:26 - gps_serial - INFO - Connected to LC29H on /dev/ttyS0 at 115200 baud
+2025-10-17 10:30:26 - root - INFO - Configuring base station position:
+2025-10-17 10:30:26 - root - INFO -   LAT: 37.77490000°
+2025-10-17 10:30:26 - root - INFO -   LON: -122.41940000°
+2025-10-17 10:30:26 - root - INFO -   ALT: 10.00 m
+2025-10-17 10:30:26 - gps_serial - INFO - Configured base mode at LAT:37.7749, LON:-122.4194, ALT:10.0
+2025-10-17 10:30:26 - root - INFO - Enabling RTCM messages: [1005, 1074, 1084, 1094, 1124, 1230]
+2025-10-17 10:30:26 - gps_serial - INFO - Enabled RTCM messages: [1005, 1074, 1084, 1094, 1124, 1230]
+2025-10-17 10:30:26 - gps_serial - INFO - Started GPS data reading thread
+2025-10-17 10:30:26 - ntrip_server - INFO - Added mountpoint: BASE
+2025-10-17 10:30:26 - ntrip_server - INFO - NTRIP server started on 0.0.0.0:2101
+2025-10-17 10:30:26 - root - INFO - Web interface available at http://10.0.0.119:5000
+2025-10-17 10:30:26 - root - INFO - ============================================================
+2025-10-17 10:30:26 - root - INFO - RTK Base Station running on port 2101
+2025-10-17 10:30:26 - root - INFO - Mountpoint: /BASE
+2025-10-17 10:30:26 - root - INFO - NTRIP URL: ntrip://10.0.0.119:2101/BASE
+2025-10-17 10:30:26 - root - INFO - ============================================================
+2025-10-17 10:30:27 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:30:27 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:28 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:30 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:31 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:30:31 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:32 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:33 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:35 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:36 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:37 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:37 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:38 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:39 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:40 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:30:40 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:40 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:41 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:42 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:30:42 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:43 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:30:43 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:44 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:45 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:46 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:47 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:30:47 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:47 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:48 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:49 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:50 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:30:50 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:52 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:30:53 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:54 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:55 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:30:55 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:56 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:57 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:57 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:58 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:58 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:30:59 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:30:59 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:00 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:01 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:02 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:04 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:04 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:06 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:07 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:31:11 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:31:11 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:12 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:13 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:16 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:18 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:21 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:21 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:22 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:22 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:23 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:24 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:25 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:26 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:27 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:28 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:28 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:29 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:29 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:29 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:30 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:31 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:31 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:32 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:33 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:34 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:35 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:31:35 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:35 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:36 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:36 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:36 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:38 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:39 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:40 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:40 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:41 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:31:44 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:46 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:47 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:47 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:48 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:49 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:50 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:50 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:51 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:31:51 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:52 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:31:52 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:53 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:53 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:54 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:55 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:56 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:57 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:31:57 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:58 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:31:59 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:00 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:32:00 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:01 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:01 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:02 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:03 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:04 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:05 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:06 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:07 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:08 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:08 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:09 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:10 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:10 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:11 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:12 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:13 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:13 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:32:13 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:14 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:15 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:15 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:17 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:32:17 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:17 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:18 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:32:18 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:19 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:20 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:32:20 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:20 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:21 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:22 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:32:22 - root - WARNING - Invalid RTCM message received, type 1020
+2025-10-17 10:32:22 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:24 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:32:24 - root - WARNING - Invalid RTCM message received, type 1012
+2025-10-17 10:32:24 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:25 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:25 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:26 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:27 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:28 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:29 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:30 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:30 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:31 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:32 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:32 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:33 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:33 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:33 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:35 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:35 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:36 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:38 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:38 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:39 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:39 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:40 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:40 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:41 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:42 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:43 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:32:45 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:32:45 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:49 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:32:51 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:52 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:32:52 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:53 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:55 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:57 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:32:59 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:33:00 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:01 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:02 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:03 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:33:03 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:33:03 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:33:03 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:04 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:33:04 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:05 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:33:09 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:13 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:33:21 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:33:21 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:33:21 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:22 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:33:25 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:26 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:33:27 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:33:27 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:33:27 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:29 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:33:35 - root - WARNING - Invalid RTCM message received, type 1124

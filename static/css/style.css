@@ -74,6 +74,18 @@ h2 {
     color: #666;
 }
 
+/* Map Container */
+.map-container {
+    margin-bottom: 20px;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -221,6 +233,10 @@ footer p {
 
     h1 {
         font-size: 1.5em;
+    }
+
+    #map {
+        height: 300px;
     }
 
     .grid {
