@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LC29H RTK Base Station - Status</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LC29H RTK Base Station</h1>
+            <div class="status-indicator" id="statusIndicator">
+                <span class="status-dot"></span>
+                <span class="status-text">Loading...</span>
+            </div>
+        </header>
+
+        <div class="grid">
+            <!-- Server Status Card -->
+            <div class="card">
+                <h2>Server Status</h2>
+                <div class="stat-group">
+                    <div class="stat">
+                        <label>Status</label>
+                        <span id="serverStatus">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Uptime</label>
+                        <span id="uptime">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Started</label>
+                        <span id="startTime">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- RTCM Statistics Card -->
+            <div class="card">
+                <h2>RTCM Statistics</h2>
+                <div class="stat-group">
+                    <div class="stat">
+                        <label>Messages Sent</label>
+                        <span id="rtcmMessages">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Bytes Sent</label>
+                        <span id="bytesSent">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Message Rate</label>
+                        <span id="messageRate">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Byte Rate</label>
+                        <span id="byteRate">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Base Station Config Card -->
+            <div class="card">
+                <h2>Base Station Position</h2>
+                <div class="stat-group">
+                    <div class="stat">
+                        <label>Latitude</label>
+                        <span id="latitude">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Longitude</label>
+                        <span id="longitude">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Altitude</label>
+                        <span id="altitude">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- NTRIP Configuration Card -->
+            <div class="card">
+                <h2>NTRIP Configuration</h2>
+                <div class="stat-group">
+                    <div class="stat">
+                        <label>Port</label>
+                        <span id="ntripPort">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Mountpoint</label>
+                        <span id="mountpoint">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Connection URL</label>
+                        <span id="connectionUrl" class="url-text">-</span>
+                    </div>
+                    <div class="stat">
+                        <label>Authentication</label>
+                        <span id="authEnabled">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Active Clients Card -->
+            <div class="card full-width">
+                <h2>Active NTRIP Clients</h2>
+                <div class="stat-group">
+                    <div class="stat">
+                        <label>Connected Clients</label>
+                        <span id="clientCount" class="client-count">0</span>
+                    </div>
+                </div>
+                <div id="clientList" class="client-list">
+                    <p class="no-clients">No clients connected</p>
+                </div>
+            </div>
+
+            <!-- RTCM Messages Card -->
+            <div class="card full-width">
+                <h2>RTCM Message Types</h2>
+                <div id="rtcmTypes" class="rtcm-types">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Last updated: <span id="lastUpdate">-</span></p>
+            <p>Auto-refresh every 2 seconds</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>

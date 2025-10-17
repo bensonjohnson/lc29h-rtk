@@ -1,0 +1,240 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+header {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 2em;
+}
+
+h2 {
+    color: #555;
+    font-size: 1.3em;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #667eea;
+}
+
+.status-indicator {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.status-dot {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #ccc;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+.status-dot.running {
+    background: #10b981;
+}
+
+.status-dot.stopped {
+    background: #ef4444;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+}
+
+.status-text {
+    font-weight: 600;
+    font-size: 1.1em;
+    color: #666;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card.full-width {
+    grid-column: 1 / -1;
+}
+
+.stat-group {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.stat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    background: #f8fafc;
+    border-radius: 6px;
+    border-left: 4px solid #667eea;
+}
+
+.stat label {
+    font-weight: 600;
+    color: #666;
+    font-size: 0.95em;
+}
+
+.stat span {
+    font-weight: 700;
+    color: #333;
+    font-size: 1.1em;
+}
+
+.url-text {
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em !important;
+    color: #667eea !important;
+    word-break: break-all;
+}
+
+.client-count {
+    font-size: 2em !important;
+    color: #10b981 !important;
+}
+
+.client-list {
+    margin-top: 15px;
+}
+
+.no-clients {
+    color: #999;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
+
+.client-item {
+    background: #f1f5f9;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    border-left: 4px solid #10b981;
+}
+
+.client-item:last-child {
+    margin-bottom: 0;
+}
+
+.client-address {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.client-details {
+    display: flex;
+    gap: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
+
+.client-details span {
+    display: flex;
+    gap: 5px;
+}
+
+.client-details label {
+    font-weight: 600;
+}
+
+.rtcm-types {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.rtcm-badge {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: #666;
+    font-size: 0.9em;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+#lastUpdate {
+    font-weight: 600;
+    color: #667eea;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .stat {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+
+    .client-details {
+        flex-direction: column;
+        gap: 5px;
+    }
+}

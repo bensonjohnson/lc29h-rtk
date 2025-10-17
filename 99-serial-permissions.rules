@@ -1,0 +1,11 @@
+# udev rules for serial port access
+# This allows users in the dialout group to access serial ports
+# Install to /etc/udev/rules.d/99-serial-permissions.rules
+
+# GPIO serial ports (ttyS*, ttyAMA*)
+KERNEL=="ttyS[0-9]*", GROUP="dialout", MODE="0660"
+KERNEL=="ttyAMA[0-9]*", GROUP="dialout", MODE="0660"
+
+# USB serial ports
+KERNEL=="ttyUSB[0-9]*", GROUP="dialout", MODE="0660"
+KERNEL=="ttyACM[0-9]*", GROUP="dialout", MODE="0660"
