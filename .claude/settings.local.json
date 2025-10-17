@@ -3,7 +3,8 @@
     "allow": [
       "Bash(sudo systemctl status:*)",
       "Bash(sudo journalctl:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "WebFetch(domain:rtklibexplorer.wordpress.com)"
     ],
     "deny": [],
     "ask": []

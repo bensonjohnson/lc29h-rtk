@@ -72,6 +72,37 @@ function updateStats(stats) {
             signalElement.textContent = '✓ Active';
             signalElement.style.color = '#10b981';
         }
+
+        // Position accuracy
+        if (gps.position_accuracy) {
+            const acc = gps.position_accuracy;
+            document.getElementById('horizontalError').textContent = acc.horizontal_m.toFixed(3) + ' m';
+            document.getElementById('verticalError').textContent = acc.vertical_m.toFixed(3) + ' m';
+            document.getElementById('error3d').textContent = acc.error_3d_m.toFixed(3) + ' m';
+
+            // Accuracy status with color coding
+            const accuracyElement = document.getElementById('accuracyStatus');
+            const error3d = acc.error_3d_m;
+            if (error3d < 0.1) {
+                accuracyElement.textContent = '✓ Excellent';
+                accuracyElement.style.color = '#10b981';
+            } else if (error3d < 0.5) {
+                accuracyElement.textContent = '✓ Good';
+                accuracyElement.style.color = '#10b981';
+            } else if (error3d < 2.0) {
+                accuracyElement.textContent = '⚠ Moderate';
+                accuracyElement.style.color = '#f59e0b';
+            } else {
+                accuracyElement.textContent = '⚠ Poor';
+                accuracyElement.style.color = '#ef4444';
+            }
+        } else {
+            document.getElementById('horizontalError').textContent = '-';
+            document.getElementById('verticalError').textContent = '-';
+            document.getElementById('error3d').textContent = '-';
+            document.getElementById('accuracyStatus').textContent = 'Calculating...';
+            document.getElementById('accuracyStatus').style.color = '#6b7280';
+        }
     }
 
     // RTCM statistics

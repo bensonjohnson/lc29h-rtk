@@ -2968,3 +2968,784 @@ Received shutdown signal
 2025-10-17 10:54:33 - root - WARNING - Invalid RTCM message received, type 1124
 2025-10-17 10:54:35 - root - WARNING - Invalid RTCM message received, type 1074
 2025-10-17 10:54:36 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:37 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:39 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:40 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:42 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:54:43 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:54:44 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:45 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:46 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:46 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:54:48 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:54:49 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:54:49 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:51 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:51 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:54:52 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:54:53 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:53 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:54:53 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:54:54 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:54:55 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:54:55 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:54:56 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:54:57 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:54:58 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:54:59 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:00 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:01 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:02 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:55:02 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:04 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:05 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:05 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:55:05 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:06 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:06 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:06 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:07 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:07 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:07 - root - INFO - 
+Received shutdown signal
+2025-10-17 10:55:07 - root - INFO - Stopping RTK Base Station...
+2025-10-17 10:55:07 - ntrip_server - INFO - NTRIP server stopped
+2025-10-17 10:55:07 - gps_serial - INFO - Stopped GPS data reading thread
+2025-10-17 10:55:07 - gps_serial - INFO - Disconnected from LC29H
+2025-10-17 10:55:07 - root - INFO - Session Statistics:
+2025-10-17 10:55:07 - root - INFO -   Uptime: 539.6 seconds (0.15 hours)
+2025-10-17 10:55:07 - root - INFO -   RTCM Messages: 2774
+2025-10-17 10:55:07 - root - INFO -   Bytes Broadcast: 219903
+2025-10-17 10:55:07 - root - INFO -   Avg Rate: 5.14 msg/sec
+2025-10-17 10:55:07 - root - INFO - RTK Base Station stopped
+2025-10-17 10:55:09 - root - INFO - ============================================================
+2025-10-17 10:55:09 - root - INFO - LC29H RTK Base Station Starting...
+2025-10-17 10:55:09 - root - INFO - ============================================================
+2025-10-17 10:55:09 - gps_serial - INFO - Connected to LC29H on /dev/ttyS0 at 115200 baud
+2025-10-17 10:55:09 - root - INFO - Configuring base station position:
+2025-10-17 10:55:09 - root - INFO -   LAT: 43.56497873°
+2025-10-17 10:55:09 - root - INFO -   LON: -116.59970771°
+2025-10-17 10:55:09 - root - INFO -   ALT: 742.50 m
+2025-10-17 10:55:09 - gps_serial - INFO - Configured base mode at LAT:43.56497873, LON:-116.59970771, ALT:742.4959
+2025-10-17 10:55:09 - root - INFO - Enabling RTCM messages: [1005, 1074, 1084, 1094, 1124, 1230]
+2025-10-17 10:55:09 - gps_serial - INFO - Enabled RTCM messages: [1005, 1074, 1084, 1094, 1124, 1230]
+2025-10-17 10:55:09 - gps_serial - INFO - Started GPS data reading thread
+2025-10-17 10:55:09 - ntrip_server - INFO - Added mountpoint: BASE
+2025-10-17 10:55:09 - ntrip_server - INFO - NTRIP server started on 0.0.0.0:2101
+2025-10-17 10:55:09 - root - INFO - Web interface available at http://10.0.0.119:5000
+2025-10-17 10:55:09 - root - INFO - ============================================================
+2025-10-17 10:55:09 - root - INFO - RTK Base Station running on port 2101
+2025-10-17 10:55:09 - root - INFO - Mountpoint: /BASE
+2025-10-17 10:55:09 - root - INFO - NTRIP URL: ntrip://10.0.0.119:2101/BASE
+2025-10-17 10:55:09 - root - INFO - ============================================================
+2025-10-17 10:55:10 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:10 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:12 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:13 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:14 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:15 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:16 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:17 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:19 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:19 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:20 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:20 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:23 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:24 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:25 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:26 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:26 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:26 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:27 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:28 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:28 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:29 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:55:30 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:32 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:33 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:33 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:35 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:37 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:38 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:38 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:38 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:39 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:40 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:55:40 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:42 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:43 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:44 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:45 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:55:45 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:46 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:47 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:51 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:51 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:51 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:55:52 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:55:52 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:55:54 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:55 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:55:55 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:55:55 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:00 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:03 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:04 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:05 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:06 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:09 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:10 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:10 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:11 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:12 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:15 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:17 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:17 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:23 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:23 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:23 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:25 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:29 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:56:30 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:56:30 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:31 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:32 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:34 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:35 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:35 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:36 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:37 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:37 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:38 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:39 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:40 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:42 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:44 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:44 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:45 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:45 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:46 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:47 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:47 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:56:47 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:48 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:50 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:51 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:54 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:56:59 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:56:59 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:01 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:57:04 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:57:06 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:08 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:09 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:10 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:57:10 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:57:11 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:11 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:57:12 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:12 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:13 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:14 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:15 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:16 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:17 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:21 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:21 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:57:26 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:27 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:57:27 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:27 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:28 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:29 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:30 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:33 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:35 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:36 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:37 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:38 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:38 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:38 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:39 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:40 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:41 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:41 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:42 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:42 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:42 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:44 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:45 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:46 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:47 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:48 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:49 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:57:50 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:52 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:52 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:54 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:57:55 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:57:55 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:57:56 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:00 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:00 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:01 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:02 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:04 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:58:04 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:05 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:05 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:06 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:08 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:08 - root - WARNING - Invalid RTCM message received, type 1003
+2025-10-17 10:58:10 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:11 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:13 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:15 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:17 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:18 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:21 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:22 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:58:23 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:23 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:58:24 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:25 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:26 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:27 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:30 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:32 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:35 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:35 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:37 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:38 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:40 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:41 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:43 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:43 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:58:43 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:46 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:47 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:48 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:48 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:49 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:58:50 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:51 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:52 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:52 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:53 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:58:54 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:55 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:58:57 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:58:57 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:58:59 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:00 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:01 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:02 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:04 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:06 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:07 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:08 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:11 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:11 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:12 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:12 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:13 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:15 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:16 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:17 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:21 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:21 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:24 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:24 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:26 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:31 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:32 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:35 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:36 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:36 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:37 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:37 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:39 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:40 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:40 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:43 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:43 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:44 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:44 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:45 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:48 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:51 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:51 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:52 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:54 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:55 - root - WARNING - Invalid RTCM message received, type 1005
+2025-10-17 10:59:55 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 10:59:55 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:56 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 10:59:56 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 10:59:57 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 10:59:59 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:00 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:01 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:00:02 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 11:00:03 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:04 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:08 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 11:00:08 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:10 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:00:11 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:11 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:13 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:14 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:18 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 11:00:24 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:25 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:30 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:31 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:33 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:00:33 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:34 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:34 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:40 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:00:40 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:41 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:00:42 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:43 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:45 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:00:48 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:48 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:00:50 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:51 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 11:00:53 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:00:54 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 11:00:57 - root - WARNING - Invalid RTCM message received, type 1084
+2025-10-17 11:00:58 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:01:00 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:01:03 - root - WARNING - Invalid RTCM message received, type 1124
+2025-10-17 11:01:04 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:01:05 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:01:06 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:01:07 - root - WARNING - Invalid RTCM message received, type 1094
+2025-10-17 11:01:08 - root - WARNING - Invalid RTCM message received, type 1074
+2025-10-17 11:01:08 - root - INFO - 
+Received shutdown signal
+2025-10-17 11:01:08 - root - INFO - Stopping RTK Base Station...
+2025-10-17 11:01:09 - ntrip_server - INFO - NTRIP server stopped
+2025-10-17 11:01:09 - gps_serial - INFO - Stopped GPS data reading thread
+2025-10-17 11:01:09 - gps_serial - INFO - Disconnected from LC29H
+2025-10-17 11:01:09 - root - INFO - Session Statistics:
+2025-10-17 11:01:09 - root - INFO -   Uptime: 359.4 seconds (0.10 hours)
+2025-10-17 11:01:09 - root - INFO -   RTCM Messages: 1870
+2025-10-17 11:01:09 - root - INFO -   Bytes Broadcast: 144063
+2025-10-17 11:01:09 - root - INFO -   Avg Rate: 5.20 msg/sec
+2025-10-17 11:01:09 - root - INFO - RTK Base Station stopped
+2025-10-17 11:01:10 - root - INFO - ============================================================
+2025-10-17 11:01:10 - root - INFO - LC29H RTK Base Station Starting...
+2025-10-17 11:01:10 - root - INFO - ============================================================
+2025-10-17 11:01:10 - gps_serial - INFO - Connected to LC29H on /dev/ttyS0 at 115200 baud
+2025-10-17 11:01:10 - root - INFO - Configuring base station position:
+2025-10-17 11:01:10 - root - INFO -   LAT: 43.56497873°
+2025-10-17 11:01:10 - root - INFO -   LON: -116.59970771°
+2025-10-17 11:01:10 - root - INFO -   ALT: 742.50 m
+2025-10-17 11:01:10 - gps_serial - INFO - Starting LC29H base station configuration...
+2025-10-17 11:01:10 - gps_serial - INFO - Base position - LAT:43.56497873, LON:-116.59970771, ALT:742.4959m
+2025-10-17 11:01:10 - gps_serial - INFO - ECEF coordinates - X:-2072860.7320, Y:-4139459.9753, Z:4373707.3808
+2025-10-17 11:01:10 - gps_serial - INFO - Set receiver mode to base station
+2025-10-17 11:01:10 - gps_serial - INFO - Saved base mode configuration
+2025-10-17 11:01:11 - gps_serial - INFO - Configured fixed base position
+2025-10-17 11:01:11 - gps_serial - INFO - Saved position configuration
+2025-10-17 11:01:11 - gps_serial - INFO - Base station configuration complete
+2025-10-17 11:01:11 - root - INFO - Enabling RTCM messages: [1005, 1074, 1084, 1094, 1124, 1230]
+2025-10-17 11:01:11 - gps_serial - INFO - Enabling RTCM3 output...
+2025-10-17 11:01:11 - gps_serial - INFO - Enabled RTCM3 MSM4 messages
+2025-10-17 11:01:11 - gps_serial - INFO - Enabled RTCM3 1005 antenna position messages
+2025-10-17 11:01:12 - gps_serial - INFO - Enabled NMEA GGA output
+2025-10-17 11:01:12 - gps_serial - INFO - Saved RTCM configuration
+2025-10-17 11:01:12 - gps_serial - INFO - RTCM output configuration complete
+2025-10-17 11:01:12 - gps_serial - INFO - Started GPS data reading thread
+2025-10-17 11:01:12 - ntrip_server - INFO - Added mountpoint: BASE
+2025-10-17 11:01:12 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:12 - ntrip_server - INFO - NTRIP server started on 0.0.0.0:2101
+2025-10-17 11:01:12 - root - INFO - Web interface available at http://10.0.0.119:5000
+2025-10-17 11:01:12 - root - INFO - ============================================================
+2025-10-17 11:01:12 - root - INFO - RTK Base Station running on port 2101
+2025-10-17 11:01:12 - root - INFO - Mountpoint: /BASE
+2025-10-17 11:01:12 - root - INFO - NTRIP URL: ntrip://10.0.0.119:2101/BASE
+2025-10-17 11:01:12 - root - INFO - ============================================================
+2025-10-17 11:01:13 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:01:13 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:14 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:17 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:20 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:22 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:25 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:25 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:27 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:28 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:29 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:30 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:31 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:01:32 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:36 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:36 - root - INFO - 
+Received shutdown signal
+2025-10-17 11:01:36 - root - INFO - Stopping RTK Base Station...
+2025-10-17 11:01:37 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:37 - ntrip_server - INFO - NTRIP server stopped
+2025-10-17 11:01:37 - gps_serial - INFO - Stopped GPS data reading thread
+2025-10-17 11:01:37 - gps_serial - INFO - Disconnected from LC29H
+2025-10-17 11:01:37 - root - INFO - Session Statistics:
+2025-10-17 11:01:37 - root - INFO -   Uptime: 25.0 seconds (0.01 hours)
+2025-10-17 11:01:37 - root - INFO -   RTCM Messages: 138
+2025-10-17 11:01:37 - root - INFO -   Bytes Broadcast: 15100
+2025-10-17 11:01:37 - root - INFO -   Avg Rate: 5.51 msg/sec
+2025-10-17 11:01:37 - root - INFO - RTK Base Station stopped
+2025-10-17 11:01:38 - root - INFO - ============================================================
+2025-10-17 11:01:38 - root - INFO - LC29H RTK Base Station Starting...
+2025-10-17 11:01:38 - root - INFO - ============================================================
+2025-10-17 11:01:38 - gps_serial - INFO - Connected to LC29H on /dev/ttyS0 at 115200 baud
+2025-10-17 11:01:38 - root - INFO - Configuring base station position:
+2025-10-17 11:01:38 - root - INFO -   LAT: 43.56497873°
+2025-10-17 11:01:38 - root - INFO -   LON: -116.59970771°
+2025-10-17 11:01:38 - root - INFO -   ALT: 742.50 m
+2025-10-17 11:01:38 - gps_serial - INFO - Starting LC29H base station configuration...
+2025-10-17 11:01:38 - gps_serial - INFO - Base position - LAT:43.56497873, LON:-116.59970771, ALT:742.4959m
+2025-10-17 11:01:38 - gps_serial - INFO - ECEF coordinates - X:-2072860.7320, Y:-4139459.9753, Z:4373707.3808
+2025-10-17 11:01:38 - gps_serial - INFO - Set receiver mode to base station
+2025-10-17 11:01:38 - gps_serial - INFO - Saved base mode configuration
+2025-10-17 11:01:39 - gps_serial - INFO - Configured fixed base position
+2025-10-17 11:01:39 - gps_serial - INFO - Saved position configuration
+2025-10-17 11:01:39 - gps_serial - INFO - Base station configuration complete
+2025-10-17 11:01:39 - root - INFO - Enabling RTCM messages: [1005, 1074, 1084, 1094, 1124, 1230]
+2025-10-17 11:01:39 - gps_serial - INFO - Enabling RTCM3 output...
+2025-10-17 11:01:39 - gps_serial - INFO - Enabled RTCM3 MSM4 messages
+2025-10-17 11:01:39 - gps_serial - INFO - Enabled RTCM3 1005 antenna position messages
+2025-10-17 11:01:39 - gps_serial - INFO - Enabled NMEA GGA output
+2025-10-17 11:01:39 - gps_serial - INFO - Saved RTCM configuration
+2025-10-17 11:01:39 - gps_serial - INFO - RTCM output configuration complete
+2025-10-17 11:01:39 - gps_serial - INFO - Started GPS data reading thread
+2025-10-17 11:01:39 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:39 - ntrip_server - INFO - Added mountpoint: BASE
+2025-10-17 11:01:39 - ntrip_server - INFO - NTRIP server started on 0.0.0.0:2101
+2025-10-17 11:01:39 - root - INFO - Web interface available at http://10.0.0.119:5000
+2025-10-17 11:01:39 - root - INFO - ============================================================
+2025-10-17 11:01:39 - root - INFO - RTK Base Station running on port 2101
+2025-10-17 11:01:39 - root - INFO - Mountpoint: /BASE
+2025-10-17 11:01:40 - root - INFO - NTRIP URL: ntrip://10.0.0.119:2101/BASE
+2025-10-17 11:01:40 - root - INFO - ============================================================
+2025-10-17 11:01:40 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:42 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:44 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:45 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:45 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:46 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:46 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:47 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:01:50 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:50 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:01:53 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:01:53 - root - WARNING - Invalid RTCM message received, type 1019
+2025-10-17 11:01:55 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:00 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:01 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:01 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:01 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:02 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:05 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:06 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:07 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:09 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:09 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:10 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:10 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:11 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:12 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:13 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:14 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:14 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:14 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:15 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:17 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:19 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:20 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:20 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:21 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:22 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:23 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:24 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:24 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:26 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:27 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:27 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:30 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:31 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:33 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:34 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:34 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:36 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:39 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:39 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:40 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:41 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:41 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:42 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:42 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:43 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:44 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:44 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:44 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:44 - root - WARNING - Invalid RTCM message received, type 1006
+2025-10-17 11:02:44 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:45 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:46 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:46 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:47 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:48 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:48 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:49 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:49 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:49 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:50 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:51 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:02:51 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:52 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:55 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:02:57 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:57 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:58 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:58 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:02:59 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:02:59 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:04 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:05 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:06 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:08 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:03:10 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:03:10 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:12 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:16 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:17 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:17 - root - WARNING - Invalid RTCM message received, type 1008
+2025-10-17 11:03:17 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:18 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:20 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:03:20 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:21 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:21 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:22 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:25 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:27 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:28 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:28 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:29 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:03:30 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:32 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:33 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:35 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:03:38 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:39 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:41 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:44 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:45 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:45 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:46 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:03:48 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:51 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:03:51 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:52 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:53 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:53 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:54 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:03:56 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:03:57 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:03:59 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:00 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:00 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:00 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:01 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:01 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:02 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:03 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:04 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:05 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:05 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:06 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:07 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:07 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:08 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:11 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:12 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:12 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:13 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:14 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:14 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:15 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:17 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:19 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:19 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:20 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:24 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:25 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:26 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:27 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:27 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:29 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:29 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:30 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:32 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:33 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:34 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:35 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:35 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:36 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:37 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:37 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:37 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:38 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:42 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:43 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:43 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:44 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:44 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:45 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:46 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:46 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:47 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:47 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:04:48 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:49 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:49 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:50 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:51 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:51 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:04:58 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:58 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:59 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:04:59 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:04:59 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:00 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:01 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:01 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:03 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:04 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:04 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:04 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:06 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:06 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:06 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:07 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:07 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:08 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:09 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:12 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:12 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:12 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:14 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:14 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:14 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:15 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:16 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:18 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:19 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:23 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:27 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:28 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:29 - root - INFO - 
+Received shutdown signal
+2025-10-17 11:05:29 - root - INFO - Stopping RTK Base Station...
+2025-10-17 11:05:30 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:30 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:30 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:30 - ntrip_server - INFO - NTRIP server stopped
+2025-10-17 11:05:30 - gps_serial - INFO - Stopped GPS data reading thread
+2025-10-17 11:05:30 - gps_serial - INFO - Disconnected from LC29H
+2025-10-17 11:05:30 - root - INFO - Session Statistics:
+2025-10-17 11:05:30 - root - INFO -   Uptime: 230.3 seconds (0.06 hours)
+2025-10-17 11:05:30 - root - INFO -   RTCM Messages: 1168
+2025-10-17 11:05:30 - root - INFO -   Bytes Broadcast: 127849
+2025-10-17 11:05:30 - root - INFO -   Avg Rate: 5.07 msg/sec
+2025-10-17 11:05:30 - root - INFO - RTK Base Station stopped
+2025-10-17 11:05:31 - root - INFO - ============================================================
+2025-10-17 11:05:31 - root - INFO - LC29H RTK Base Station Starting...
+2025-10-17 11:05:31 - root - INFO - ============================================================
+2025-10-17 11:05:31 - gps_serial - INFO - Connected to LC29H on /dev/ttyS0 at 115200 baud
+2025-10-17 11:05:31 - root - INFO - Configuring base station position:
+2025-10-17 11:05:31 - root - INFO -   LAT: 43.56497873°
+2025-10-17 11:05:31 - root - INFO -   LON: -116.59970771°
+2025-10-17 11:05:31 - root - INFO -   ALT: 742.50 m
+2025-10-17 11:05:31 - gps_serial - INFO - Starting LC29H base station configuration...
+2025-10-17 11:05:31 - gps_serial - INFO - Base position - LAT:43.56497873, LON:-116.59970771, ALT:742.4959m
+2025-10-17 11:05:31 - gps_serial - INFO - ECEF coordinates - X:-2072860.7320, Y:-4139459.9753, Z:4373707.3808
+2025-10-17 11:05:31 - gps_serial - INFO - Set receiver mode to base station
+2025-10-17 11:05:31 - gps_serial - INFO - Saved base mode configuration
+2025-10-17 11:05:32 - gps_serial - INFO - Configured fixed base position
+2025-10-17 11:05:32 - gps_serial - INFO - Saved position configuration
+2025-10-17 11:05:32 - gps_serial - INFO - Base station configuration complete
+2025-10-17 11:05:32 - root - INFO - Enabling RTCM messages: [1005, 1074, 1084, 1094, 1124, 1230]
+2025-10-17 11:05:32 - gps_serial - INFO - Enabling RTCM3 output...
+2025-10-17 11:05:32 - gps_serial - INFO - Enabled RTCM3 MSM4 messages
+2025-10-17 11:05:32 - gps_serial - INFO - Enabled RTCM3 1005 antenna position messages
+2025-10-17 11:05:32 - gps_serial - INFO - Enabled NMEA GGA output
+2025-10-17 11:05:33 - gps_serial - INFO - Saved RTCM configuration
+2025-10-17 11:05:33 - gps_serial - INFO - RTCM output configuration complete
+2025-10-17 11:05:33 - gps_serial - INFO - Started GPS data reading thread
+2025-10-17 11:05:33 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:33 - ntrip_server - INFO - Added mountpoint: BASE
+2025-10-17 11:05:33 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:33 - ntrip_server - INFO - NTRIP server started on 0.0.0.0:2101
+2025-10-17 11:05:33 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:33 - root - INFO - Web interface available at http://10.0.0.119:5000
+2025-10-17 11:05:33 - root - INFO - ============================================================
+2025-10-17 11:05:33 - root - INFO - RTK Base Station running on port 2101
+2025-10-17 11:05:33 - root - INFO - Mountpoint: /BASE
+2025-10-17 11:05:33 - root - INFO - NTRIP URL: ntrip://10.0.0.119:2101/BASE
+2025-10-17 11:05:33 - root - INFO - ============================================================
+2025-10-17 11:05:35 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:36 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:36 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:37 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:38 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:38 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:39 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:39 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:40 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:41 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:41 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:42 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:42 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:43 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:44 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:45 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:46 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:46 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:47 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:47 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:47 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:48 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:49 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:52 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:53 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:55 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:55 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:55 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:56 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:05:57 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:05:58 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:05:58 - root - WARNING - Invalid RTCM message received, type 1033
+2025-10-17 11:05:59 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:05:59 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:06:00 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:06:01 - root - WARNING - Invalid RTCM message received, type 1097
+2025-10-17 11:06:01 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:06:04 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:06:04 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:06:05 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:06:07 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:06:07 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:06:08 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:06:08 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:06:08 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:06:11 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:06:12 - root - WARNING - Invalid RTCM message received, type 1077
+2025-10-17 11:06:12 - root - WARNING - Invalid RTCM message received, type 1087
+2025-10-17 11:06:12 - root - WARNING - Invalid RTCM message received, type 1127
+2025-10-17 11:06:13 - root - WARNING - Invalid RTCM message received, type 1077
